@@ -1,0 +1,10 @@
+body {
+  background-color: gray;
+}
+
+.container {
+  width: 980px;
+  margin: auto 0;
+  overflow: hidden;
+  
+  
