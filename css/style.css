@@ -9,6 +9,8 @@
 }
 body {
   background-color: gray;
+  body: 0;
+  padding: 0;
 }
 
 .container {
@@ -16,6 +18,35 @@ body {
   margin: 0 auto;
   overflow: hidden;
 }
+#wrapper {
+  width: 960;
+  margin:  0 auto;
+  
+}
+#header {
+  padding: 15px;
+}
+
+#main {
+  float: left;
+  width: 650px;
+  margin: 0 20px;
+  outline: 2px solid black;
+}
+
+#extra {
+  float:left;
+  width: 250px;
+  margin: 0 20x 0 0;
+  outline: 2px solid black;
+}
+
+#footer {
+  clear: left;
+  padding: 15px;
+  background-color: teal;
+}
+  
   
 #top-header-container {
   position: relative;
