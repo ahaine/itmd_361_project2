@@ -58,9 +58,21 @@ body {
   outline: 2px solid black;
 }
 #footer2 {
-	clear: left;
-	background-color:teal;
-	padding: 15px;
+  clear: left;
+  background-color:teal;
+  padding: 15px;
+}
+
+#main3 {
+  float: left;
+  width: 85%;
+  margin: 0 5%;
+  outline: 2px solid black;
+}
+#footer3 {
+  clear: left;
+  background-color:teal;
+  padding: 15px; 
 }
   
   
