@@ -23,28 +23,45 @@ body {
   margin:  0 auto;
   
 }
-#header {
+#header1 {
   padding: 15px;
 }
 
-#main {
+#main1 {
   float: left;
   width: 650px;
   margin: 0 20px;
   outline: 2px solid black;
 }
 
-#extra {
+#extra1 {
   float:left;
   width: 250px;
   margin: 0 20x 0 0;
   outline: 2px solid black;
 }
 
-#footer {
+#footer1 {
   clear: left;
   padding: 15px;
   background-color: teal;
+}
+#main2 {
+  float: left;
+  width: 60%;
+  margin: 0 5%;
+  outline: 2px solid black;
+}
+#extra2 {
+  float: left;
+  width: 25%;
+  margin: 0 5% 0 0;
+  outline: 2px solid black;
+}
+#footer2 {
+	clear: left;
+	background-color:teal;
+	padding: 15px;
 }
   
   
